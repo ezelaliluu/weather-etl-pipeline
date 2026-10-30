@@ -121,6 +121,3 @@ Jalankan script utama ETL secara manual:
 python etl.py
 
 ```
-
-```
-```
