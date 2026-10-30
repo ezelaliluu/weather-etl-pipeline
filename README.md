@@ -1,5 +1,3 @@
-Berikut adalah draf `README.md` profesional yang dapat langsung digunakan untuk repository GitHub:
-
 ```markdown
 # ⛅ Automated Weather Data Pipeline (ETL)
 
